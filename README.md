@@ -47,7 +47,7 @@ An all-in-one HR dashboard exploring employee retention, demographics, and perfo
 
 I’m open to freelance, remote, or full-time roles involving data visualization, analytics, and business intelligence. Reach out if you're looking for an analytical mind with a visual eye.
 
-> 📧 joaquinrojash@gmail.com  
+> 📧 joaquinrojash@hotmail.com  
 > 🌐 [LinkedIn](https://linkedin.com/in/joaquinrojash)  
 > 🐙 [GitHub Profile](https://github.com/joaquinrojash)
 
